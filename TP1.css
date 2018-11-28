@@ -25,3 +25,34 @@ body{
     margin-right:auto;
     font-weight: bold;
 }
+
+.aboutus {
+    display: flex;
+    height: 60%;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.texto1 {
+    margin: 20px;
+    color: white;
+}
+
+.imagen1 {
+    margin: 20px;
+}
+
+.ourwork {
+    display: flex;
+    height: 60%;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactus {
+    display: flex;
+    height: 60%;
+    justify-content: center;
+    align-items: center;
+}
